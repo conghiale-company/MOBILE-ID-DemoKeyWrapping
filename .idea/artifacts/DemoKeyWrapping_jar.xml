@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DemoKeyWrapping:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DemoKeyWrapping_jar</output-path>
+    <root id="archive" name="DemoKeyWrapping.jar">
+      <element id="module-output" name="DemoKeyWrapping" />
+      <element id="module-source" name="DemoKeyWrapping" />
+    </root>
+  </artifact>
+</component>
